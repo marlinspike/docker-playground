@@ -11,7 +11,7 @@ Prereq: Before you begin, make sure you have installed <a href="https://git-scm.
 ## Additional Notes
 At the beginning of the Dockerfile, some enviroment variable are set with the following lines:
 ```
-ENV username andrew
+ENV username messi
 ENV password pass
 ENV rootpassword toor
 ```
