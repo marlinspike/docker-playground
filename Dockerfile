@@ -3,9 +3,9 @@ FROM ubuntu:latest
 #==========================
 # TODO: Use desired values
 #==========================
-ENV username andrew
-ENV password pass
-ENV rootpassword toor
+ENV username messi
+ENV password goal
+ENV rootpassword golaso
 
 #============
 # Add a user
