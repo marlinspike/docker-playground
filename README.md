@@ -12,8 +12,8 @@ Prereq: Before you begin, make sure you have installed <a href="https://git-scm.
 At the beginning of the Dockerfile, some enviroment variable are set with the following lines:
 ```
 ENV username messi
-ENV password pass
-ENV rootpassword toor
+ENV password goal
+ENV rootpassword golaso
 ```
 
 When the container loads a shell, it will load to user `andrew`, with the password set to `pass`.  The password for the root user is set to `toor`.
